@@ -1,2 +1,3 @@
-# projeto_curso_algoritmo_1
-Este protejo é sobre o curso Algoritmo e Lógica 1
+# PROJETO CURSO ALGORITMO I
+
+### Este protejo é sobre o curso Algoritmo e Lógica 1
